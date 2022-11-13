@@ -4,7 +4,9 @@
 - 🌱 Estou estudando Scrath, HTML e JavaScript.
 - 📫 Você me encontra adrifontferreira@hotmail.com.
 
-
+<div>
+ <a href="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"</a>
+  </div>
 
 <!---
 ninacristina2/ninacristina2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,9 +15,9 @@ You can click the Preview link to take a look at your changes.
 ## Contatos:
 
 <div>
-<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/[seu-canal-youtube-aqui](https://www.youtube.com/channel/UC8WCPihJQRUTjuJ2Xkd5UcQ)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/@adri-ana2701" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@adrifontferreira@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
 
