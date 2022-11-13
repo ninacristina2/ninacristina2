@@ -2,7 +2,7 @@
 - 👋 Olá! Meu nome é **Adriana**, dou professora de Matemática. 
 - 👀 Eu me interesso por programação e robótica.
 - 🌱 Estou estudando Scrath, HTML e JavaScript.
-- 📫 Você me encontra adrifontferreira@hotmail.com.
+- 📫 Você me encontra adrifontferreira@hotmail.com
 
 <div>
  <a href="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"</a>
