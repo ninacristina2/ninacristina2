@@ -2,7 +2,7 @@
 - 👋 Olá! Meu nome é **Adriana**, dou professora de Matemática. 
 - 👀 Eu me interesso por programação e robótica.
 - 🌱 Estou estudando Scrath, HTML e JavaScript.
-- 📫 Você me encontra no [email](adriana.ferreira@escola.pr.gov.br) 
+- 📫 Você me encontra no [email](adrifontferreira@hotmail.com) 
 
 <!---
 ninacristina2/ninacristina2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
