@@ -4,8 +4,7 @@
 - 🌱 Estou estudando Scrath, HTML e JavaScript.
 - 📫 Você me encontra adrifontferreira@hotmail.com.
 
-https://img.shields.io/website-up-down-green-red/http/monip.org.svgsite: http://monip.org
-https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svgSite: http://cv.lbesson.qc.to/
+
 
 <!---
 ninacristina2/ninacristina2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
