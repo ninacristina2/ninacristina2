@@ -1,18 +1,20 @@
 
-***Olá, sou a Profe Adriana
-<div>
- <img align="center"  src="eu.png" height="250em">
- 
- </div>
- # Sobre mim...
+                 Sobre mim...
 - 👋 Olá! Meu nome é **Adriana**, dou professora de Matemática. 
 - 👀 Eu me interesso por programação e robótica.
 - 🌱 Estou estudando Scrath, HTML e JavaScript.
 - 📫 Você me encontra adrifontferreira@hotmail.com
 
+                                                   Olá, sou a Profe Adriana... 
+<div align="center">
+ <img  src="eu.png" height="250em">
+  </div>
+
 <div>
  <a href="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"</a>
   </div>
+  
+  
   
    <div>
 <div align="center">
