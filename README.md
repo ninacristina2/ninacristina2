@@ -5,7 +5,8 @@
 - 📫 Você me encontra adrifontferreira@hotmail.com
 
 <div>
- <img src="https://drive.google.com/file/d/19YnCs6e8lOjW9yjPGK_BupzmQDfOCnM_/view?usp=share_link">
+ <img src="![145f5aa4-2147-4f8f-994a-e25f5d050d02_share](https://user-images.githubusercontent.com/104108755/201553590-cc17d012-c36e-42a6-bb67-6a48cf589124.png)
+">
  </div>
 
 <div>
