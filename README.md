@@ -5,7 +5,7 @@
 - 📫 Você me encontra adrifontferreira@hotmail.com
 
 <div>
- <center><img height="200em" src="eu.png"></center>
+ <img height="250em" src="eu.png">
  
  </div>
 
